@@ -1,0 +1,19 @@
+{
+  "name": "react-nativescript",
+  "version": "1.0.0",
+  "description": "React plugin for NativeScript (under construction)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirakaba/react-nativescript.git"
+  },
+  "author": "Jamie Birch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirakaba/react-nativescript/issues"
+  },
+  "homepage": "https://github.com/shirakaba/react-nativescript#readme"
+}
